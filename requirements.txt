@@ -1,2 +1,2 @@
-streamlit
-yt-dlp
+streamlit>=1.28.0
+yt-dlp>=2023.11.16
